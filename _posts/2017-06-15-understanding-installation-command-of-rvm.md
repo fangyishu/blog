@@ -11,11 +11,11 @@ In the [homepage of RVM][rvm], here is how to install it:
     $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
     $ \curl -sSL https://get.rvm.io | bash -s stable
     
-Those two commands often make people very confusing: 
+Those two commands often make people very confused: 
 
 * What's the meaning of the `gpg` command and why it is needed?
 * Why we need a leading backlash (`\`) before `curl`?
-* What's the meaning of `-sSL` option? Does it related with `https` or `SSL` / `TLS`?
+* What's the meaning of `-sSL` option? Is it related with `https` or `SSL` / `TLS`?
 * Why that pipe and what is `-s` option for `bash`?
 
 Let's look at them in detail.
