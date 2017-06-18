@@ -3,6 +3,7 @@ layout: post
 title:  "Understanding Installation Command of RVM"
 date:   2017-06-15 21:55:31 +0800
 categories: ruby rvm bash
+comment: true
 ---
 [RVM][rvm] is Ruby Version Manager for Ruby like [NVM][nvm] is Node Version Manager for node.
 
