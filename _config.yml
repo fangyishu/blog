@@ -31,3 +31,5 @@ exclude:
   - Gemfile.lock
 disqus:
   shortname: fangyishu-blog
+ google_analytics: UA-101258772-1
+
